@@ -1,2 +1,4 @@
+## This is only another test for working with the git commands.
 Chrome
 Firefox
+Edge
